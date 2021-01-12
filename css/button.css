@@ -10,4 +10,6 @@
     cursor: pointer;
   }
   
-  .button1 {background-color: black;} /* Blue */
+  .button1 {
+    background-color: black;
+}
